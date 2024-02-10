@@ -1,0 +1,15 @@
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.deps.json
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.runtimeconfig.json
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.runtimeconfig.dev.json
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.dll
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/bin/Debug/net5.0/ref/ConsoleApp1.dll
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.pdb
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csprojAssemblyReference.cache
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfo.cs
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.dll
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/obj/Debug/net5.0/ref/ConsoleApp1.dll
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.pdb
+/Users/harry/Desktop/code/C#/helloworld/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.genruntimeconfig.cache
